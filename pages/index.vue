@@ -1,7 +1,5 @@
 <template>
-
   <slides> </slides>
-
 </template>
 
 <script>
