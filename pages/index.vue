@@ -1,7 +1,12 @@
 <template>
-  <Tutorial />
+
+  <slides> </slides>
+
 </template>
 
 <script>
-export default {}
+import slides from '~/components/slides.vue'
+export default {
+  components: { slides }
+}
 </script>
